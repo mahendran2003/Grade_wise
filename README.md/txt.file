@@ -1,0 +1,17 @@
+# Student Grade Management System
+
+## Technologies Used
+- Java
+- MySQL
+- JDBC
+
+## How to Run
+1. Import `mysql-connector-java-X.X.X.jar` into your classpath.
+2. Set your MySQL credentials in `DBConnection.java`.
+3. Run the SQL script `grade_schema.sql` to create the database and tables.
+4. Compile and run `Main.java`.
+
+## Features
+- Add Students
+- Add Grades
+- View Grade Reports
